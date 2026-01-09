@@ -1,5 +1,5 @@
 Задания
-# 1.1. Введение в вёрстку(introduction-html-css)
+# 1.1. Введение в вёрстку (introduction-html-css)
 
 Нужно выполнить задания:
 
@@ -12,7 +12,7 @@
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
 
 
-# 1.2. Контентные теги(content-tags)
+# 1.2. Контентные теги (content-tags)
 
 Нужно выполнить задания:
 
@@ -24,7 +24,7 @@
 
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
 
-# 1.3. Теги для вёрстки структуры контента
+# 1.3. Теги для вёрстки структуры контента (content-structure-tags)
 
 Нужно выполнить задания:
 
