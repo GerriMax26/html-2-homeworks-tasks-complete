@@ -40,7 +40,7 @@
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
 
 
-# 2.1 Вёрстка форм
+# 2.1 Вёрстка форм (forms)
 
 Нужно выполнить задания:
 
