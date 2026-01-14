@@ -38,3 +38,15 @@
 
 Все задания обязательны к выполнению.
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
+
+
+# 2.1 Вёрстка форм
+
+Нужно выполнить задания:
+
+1. [Форма подписки на новинки и скидки](https://github.com/GerriMax26/html-2-homeworks/tree/master/forms/news-and-offers-form).
+2. [Стилизация кнопки](https://github.com/GerriMax26/html-2-homeworks/tree/master/forms/button-effects).
+3. [Форма обратной связи](https://github.com/GerriMax26/html-2-homeworks/tree/master/forms/feedback-form).
+
+Все задания обязательны к выполнению.
+Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
